@@ -1,0 +1,1 @@
+DBCC PDW_SHOWSPACEUSED('schema.table')
